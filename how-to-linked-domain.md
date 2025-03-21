@@ -7,7 +7,7 @@ This guide explains how I implemented the domain `dafanyascarf.id` from Exabytes
 ### 1. Login to Exabytes and Access cPanel
 - First, log in to your Exabytes account and select **Layanan** > click on **cPanel Hosting**, or you can also log directly into **cPanel** by entering your email and password.
   
-![picture1](picture1.png)
+![picture1](assets/images/picture1.png)
 
 ### 2. Access Email Accounts in cPanel
 - Once inside cPanel, click on **Akun Email** to access the settings.
