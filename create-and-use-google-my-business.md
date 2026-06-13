@@ -33,3 +33,7 @@ To improve visibility in Google Maps and local search results:
 - **Request Reviews**: Share your custom review link with satisfied customers to collect 5-star ratings. Reviews are a key ranking factor for local searches.
 - **Respond to Reviews**: Always respond to reviews (both positive and negative) to demonstrate active customer service.
 - **Post Updates**: Use the "Updates" feature to post weekly promotions, discounts, or new arrivals directly on Google Search/Maps.
+
+---
+**Back to Home:** [README](README.md)
+

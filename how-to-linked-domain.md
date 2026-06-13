@@ -32,3 +32,7 @@ This guide explains how I implemented the domain `dafanyascarf.id` from Exabytes
 - Navigate to **Settings** > **Domains**.
 - Click **Connect existing domain**, enter your domain name (`dafanyascarf.id`), and click **Verify connection**.
 
+---
+**Next Topic:** [How to Subscribe to Shopify](how-to-subscribe-shopify.md)
+
+

@@ -36,3 +36,7 @@ This guide describes how to configure TikTok Ads, track ad performance metrics, 
 
 ![TikTok Shop Video Sales Performance](assets/images/Screenshot%202025-03-03%20131031.png)
 ![TikTok Shop Affiliate Creator Performance](assets/images/Screenshot%202025-03-03%20121151.png)
+
+---
+**Next Topic:** [How to Implement Meta Ads](how-to-implementation-meta-ads.md)
+

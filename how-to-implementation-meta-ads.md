@@ -34,3 +34,7 @@ Regularly check your Ads Manager reporting dashboard:
 - **CTR (Click-Through Rate - Link Clicks)**: Aim for >1.5% as an indicator of strong ad creatives.
 - **CPC (Cost Per Click)**: Monitor bidding and traffic costs.
 - **Frequency**: Ensure ads are not shown too many times to the same person to avoid ad fatigue.
+
+---
+**Next Topic:** [Create and Use Google My Business](create-and-use-google-my-business.md)
+

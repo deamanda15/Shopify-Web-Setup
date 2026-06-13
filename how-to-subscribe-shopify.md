@@ -21,4 +21,8 @@ After successfully linking your domain to Shopify, the next step is to choose a 
 - Select your preferred plan, choose a billing cycle (yearly subscription offers a discount, e.g., Basic plan at $228.00 yearly), and complete your payment setup by adding a credit card, debit card, or PayPal.
 
 ![Shopify Subscriptions](assets/images/how%20to%20subs-pict%203.png)
-![Shopify Plans Comparison](assets/images/Screenshot%202025-03-04%20105759.png)
+![Shopify Plans Comparison](assets/images/Screenshot%202025-03-04%20105759.png)
+
+---
+**Next Topic:** [Developing a Shopify Theme](develop-shopify-theme.md)
+

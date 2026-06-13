@@ -66,3 +66,7 @@ This guide explains how to configure theme sections, utilize custom CSS/Liquid b
 ![Select Product Page Template](assets/images/setting%20css%20section%20-%20pict%209.png)
 ![Product Page Template assigned](assets/images/setting%20css%20section%20-%20pict%2010.png)
 ![Assigning Template in Shopify Product Admin](assets/images/setting%20css%20section%20-%20pict%2011.png)
+
+---
+**Next Topic:** [Customizing Sections with HTML](custom-section-with-html.md)
+

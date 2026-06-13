@@ -28,3 +28,7 @@ This guide explains how to increase sales and capture leads by setting up high-c
   *   **Scroll-trigger**: Trigger the popup after a user scrolls through a specific percentage of the homepage.
 - Leverage the **AB Testing** tab to test different headlines, designs, or coupon codes to optimize conversion rates.
 - Toggle campaigns between **Active** and **Paused** states to manage active promotions.
+
+---
+**Next Topic:** [How to Implement TikTok Ads Manager](how-to-implementation-tiktok-ads-manager.md)
+

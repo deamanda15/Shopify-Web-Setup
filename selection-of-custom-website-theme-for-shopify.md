@@ -36,3 +36,7 @@ This guide describes how to select, import, and customize a website theme in Sho
   - **Right Pane (Settings)**: Adjust specific section attributes, such as "Desktop logo position" (Top center), "Sticky header" (On scroll up), color schemes, and mobile layout options.
 
 ![Shopify Theme Customizer](assets/images/selection%20of%20custimize-pict%204.png)
+
+---
+**Next Topic:** [Setting CSS Sections](setting-css-section.md)
+

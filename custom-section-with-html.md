@@ -56,3 +56,7 @@ This guide explains how to back up your theme, manage media assets, add Custom L
 - Choose a **Payment capture method** (e.g., set to **Manually** or **Automatically at checkout**).
 
 ![Shopify Payments Settings](assets/images/custom%20section%20with%20HTML%20-%20pict%205.png)
+
+---
+**Next Topic:** [Setting Hard-Selling Pop-up](setting-hardselling-pop-up.md)
+

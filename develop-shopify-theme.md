@@ -35,3 +35,7 @@ Inside the code editor, your theme code is organized into several key folders:
 
 ![Assets Directory CSS Files](assets/images/Screenshot%202025-03-08%20220844.png)
 ![Assets Directory Base CSS](assets/images/Screenshot%202025-03-08%20220511.png)
+
+---
+**Next Topic:** [Selecting a Custom Website Theme for Shopify](selection-of-custom-website-theme-for-shopify.md)
+
