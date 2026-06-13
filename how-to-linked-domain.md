@@ -5,21 +5,30 @@ This guide explains how I implemented the domain `dafanyascarf.id` from Exabytes
 ## Steps to Link the Domain:
 
 ### 1. Login to Exabytes and Access cPanel
-- First, log in to your Exabytes account and select **Layanan** > click on **cPanel Hosting**, or you can also log directly into **cPanel** by entering your email and password.
-  
-![picture1](assets/images/picture1.png)
+- First, log in to your Exabytes account, select **Layanan** in the top menu, and click on **Layanan Saya**.
 
-### 2. Access Email Accounts in cPanel
-- Once inside cPanel, click on **Akun Email** to access the settings.
+![Login Exabytes](assets/images/how%20to%20linked-pict%201.png)
 
-![picture2](picture2.jpeg)
+### 2. Access cPanel via Quick Shortcuts
+- Under the **Detail Produk** page, you will see your active cPanel Hosting service. Scroll down to the **Quick Shortcuts** section and click on **Akun Email** (or any other shortcut) to be automatically logged into your **cPanel** dashboard.
+
+![Quick Shortcuts cPanel](assets/images/how%20to%20linked-pict%202.png)
 
 ### 3. Scroll Down and Click on Zone Editor
-- Scroll down on the cPanel page and click on **Zone Editor**.
+- Once inside the cPanel dashboard, scroll down to the **Domains** section and click on **Zone Editor**.
 
-![picture3](picture3.jpeg)
+![Zone Editor cPanel](assets/images/how%20to%20linked-pict%203.png)
 
-### 4. Redirect Domain to the Desired Website
-- You will be directed to the **Tools** page to transfer the domain's code to the website you want to use. Since I am using Shopify, once inside Shopify, you'll find a feature to set up the domain. This section contains the code that needs to be entered in cPanel according to the "filter name."
-  
-![picture4](picture4.jpeg)
+### 4. Redirect Domain to Shopify (Configure DNS Records)
+- Inside the Zone Editor, click **Manage** next to your domain (`dafanyascarf.id`).
+- Add or edit the following records to direct your domain to Shopify:
+  - **A Record**: Point the host name `@` (or `dafanyascarf.id.`) to Shopify's IP address: `23.227.38.65`.
+  - **CNAME Record**: Point the host name `www` to `shops.myshopify.com`.
+
+![cPanel DNS Records](assets/images/how%20to%20linked-pict%204.png)
+
+### 5. Verify Domain in Shopify
+- Go to your Shopify Admin page.
+- Navigate to **Settings** > **Domains**.
+- Click **Connect existing domain**, enter your domain name (`dafanyascarf.id`), and click **Verify connection**.
+
